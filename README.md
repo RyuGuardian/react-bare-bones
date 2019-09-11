@@ -121,7 +121,7 @@ Replace `"scripts"` lines in `package.json` with `build` and `start` commands fo
 
 Run the dev server by typing `npm start` into the command line. View the site at localhost:8080 to make sure it works.
 
-Build the project using `npm run build`. There will likely be warnings about file-size limits. This is due to the sourcemap being built in the bundle (I will handle the warnings later as I expand my project). View the site by opening the index.html file _from the build folder_ to make sure the build works.
+Build the project using `npm run build`. There will likely be warnings about file-size limits. This is due to the sourcemap being built in the bundle (I will handle the warnings later as I expand my project). View the site by opening the **index.html** file _from the build folder_ to make sure the build works.
 
 ## Postrequisites
 
