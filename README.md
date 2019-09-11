@@ -131,7 +131,7 @@ In the root folder, create a file called **README.md**. In it, explain the purpo
 
 ### Add source control.
 
-I use git: `git init`. Then add "node_modules" and "build" _on separate lines_ to a file called **.gitignore** in the project's root folder so they don't get tracked and unnecessarily uploaded to the repository.
+I use Git: `git init`. Then add "node_modules" and "build" _on separate lines_ to a file called **.gitignore** in the project's root folder so they don't get tracked and unnecessarily uploaded to the repository.
 
 Check your status to make sure the correct files are being tracked: `git status`.
 
